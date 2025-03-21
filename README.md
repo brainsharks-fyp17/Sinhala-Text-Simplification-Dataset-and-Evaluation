@@ -26,6 +26,6 @@ issn = {2375-4699},
 url = {https://doi.org/10.1145/3723160},
 doi = {10.1145/3723160},
 journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
-month = mar
+month = {mar}
 }
 ```
