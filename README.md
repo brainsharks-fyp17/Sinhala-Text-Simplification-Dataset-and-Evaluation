@@ -10,6 +10,10 @@ Text Simplification is a task that has been minimally explored for low-resource 
 
 If you use our dataset in your research, please cite our paper:
 
+**APA:**
+
+Ranathunga, S., Madhusanka, R., Rathnayake, H., de Silva, L., Aluthwala, T., Peramuna, S., & Shekhar, R. (2025). SiTSE: Sinhala Text Simplification Dataset and Evaluation. ACM Trans. Asian Low-Resour. Lang. Inf. Process. doi:10.1145/3723160
+
 **BibTeX:**
 ```bibtex
 @article{10.1145/3723160,
