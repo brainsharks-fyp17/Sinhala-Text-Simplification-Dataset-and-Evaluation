@@ -1,6 +1,6 @@
 # Sinhala-Text-Simplification-Dataset-and-Evaluation
 
-This repository contains the data and code for the paper "SiTSE: Sinhala Text Simplification Dataset and Evaluation".
+This repository contains the data and code for the paper "SiTSE: Sinhala Text Simplification Dataset and Evaluation". The same is in HF: https://huggingface.co/datasets/NLPC-UOM/SiTSE
 
 ## Abstract of the Paper
 
